@@ -1,1 +1,1 @@
-Este readme es basic
+En este proyecto se utilizó React, CSS, y algo innovador: React Context. Esto es útil para no tener que pasar la información de componente a componente, y poder saltearse todo el “árbol” de objetos. Lo buenos es que de una forma directa tienes acceso a una base de datos, que se puede modificar desde cualquier componente. Una alternativa más minimalista a Redux 
